@@ -17,7 +17,7 @@ Twitter (Twitter должен быть создан ранее!):
 
 ---
 ### Установка и запуск
-- `git clone `
+- `git clone https://github.com/AlexeyDemidow/mifort_test.git` - клонируем репозиторий
 - `pip install -r requirements.txt` - устанавливаем зависимости
 - `playwright install` - устанавливаем браузеры
 - `python script.py` - запуск скрипта
